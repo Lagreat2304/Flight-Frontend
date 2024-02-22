@@ -1,0 +1,60 @@
+.message-box {
+  margin: 10px 0;
+}
+
+.error {
+  background-color: #ffebee;
+  color: #d32f2f;
+}
+
+.success {
+  background-color: #c8e6c9;
+  color: #2e7d32;
+}
+
+.top-right-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.header {
+  color: #3f51b5;
+}
+
+.flight-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.flight-table th, .flight-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.book-seat-btn {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.pagination-container {
+  margin-top: 20px;
+}
+
+.pagination-container button {
+  background-color: #e0e0e0;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 8px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.pagination-container button:hover {
+  background-color: #ccc;
+}
